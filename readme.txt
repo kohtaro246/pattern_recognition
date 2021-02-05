@@ -9,7 +9,7 @@
 
 実行方法：
 githubを利用できる場合:
-	git clone https://github.com/kohtaro246/robot_intel.git
+	git clone https://github.com/kohtaro246/pattern_recognition.git
 	を実行するとデータ準備の必要はありません。3月下旬までは公開している予定です。
 
 データ準備（githubを使用しない場合）：
