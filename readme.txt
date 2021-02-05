@@ -6,6 +6,7 @@
 		・cupy-cuda101 8.4.0
 		・numpy 1.20.0
 		・matplotlib 3.3.4
+		・tqdm 4.56.0
 
 実行方法：
 githubを利用できる場合:
